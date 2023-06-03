@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/**header-nav**/
+#header-nav{
+    background-color: #f6b419;
+    border-radius: 0;
+    border: 0;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0; 
+    /* height: 100px; */
+}
